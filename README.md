@@ -3,3 +3,5 @@ Fly.io Specific Docker Container for [nginx](https://nginx.org) and [s3fs](https
 
 > [!WARNING]
 > 🔥🔥 S3FS is slow, page load times will be about 5secs 🔥🔥
+
+📝 Instructions: https://www.linickx.com/flyio---docker-nginx-with-s3fs
